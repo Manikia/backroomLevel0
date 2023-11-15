@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rapmo\\Documents\\Unreal Projects\\backroombackup\\Intermediate\\Source\\backroomTest2.Build.cs",
+		"C:\\Users\\rapmo\\Documents\\Unreal Projects\\backroombackup\\Intermediate\\Source\\backroomTest2.Target.cs",
+		"C:\\Users\\rapmo\\Documents\\Unreal Projects\\backroombackup\\Intermediate\\Source\\backroomTest2Client.Target.cs",
+		"C:\\Users\\rapmo\\Documents\\Unreal Projects\\backroombackup\\Intermediate\\Source\\backroomTest2Editor.Target.cs",
+		"C:\\Users\\rapmo\\Documents\\Unreal Projects\\backroombackup\\Intermediate\\Source\\backroomTest2Server.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
